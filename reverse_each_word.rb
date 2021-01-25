@@ -1,4 +1,4 @@
-1. Write method called reverse_each_word. 
+1. Write method called reverse_each_word.
 2. Take in string argument and returns same sentence with each word reversed in place.
 
 
